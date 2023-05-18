@@ -1,0 +1,21 @@
+
+[17/05/2023 13:12:10]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 37.9, ritmo    cardiaco: 80, presión arterial: 189, dispositivo: 57517880
+[17/05/2023 13:12:15]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 37.7, ritmo    cardiaco: 136, presión arterial: 176, dispositivo: 57517880
+[17/05/2023 13:12:19]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 34.9, ritmo    cardiaco: 111, presión arterial: 128, dispositivo: 57517880
+[17/05/2023 13:12:24]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 34.7, ritmo    cardiaco: 113, presión arterial: 168, dispositivo: 57517880
+[17/05/2023 13:12:28]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 33.1, ritmo    cardiaco: 150, presión arterial: 166, dispositivo: 57517880
+[17/05/2023 13:12:33]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 34.1, ritmo    cardiaco: 104, presión arterial: 110, dispositivo: 57517880
+[17/05/2023 13:12:37]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 35.5, ritmo    cardiaco: 70, presión arterial: 161, dispositivo: 57517880
+[17/05/2023 13:12:42]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 38.3, ritmo    cardiaco: 114, presión arterial: 151, dispositivo: 57517880
+[17/05/2023 13:12:46]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 38.6, ritmo    cardiaco: 93, presión arterial: 159, dispositivo: 57517880
+[17/05/2023 13:12:50]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 39.0, ritmo    cardiaco: 82, presión arterial: 105, dispositivo: 57517880
+[17/05/2023 13:12:55]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 35.2, ritmo    cardiaco: 85, presión arterial: 142, dispositivo: 57517880
+[17/05/2023 13:12:59]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 35.8, ritmo    cardiaco: 137, presión arterial: 180, dispositivo: 57517880
+[17/05/2023 13:13:04]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 37.3, ritmo    cardiaco: 67, presión arterial: 134, dispositivo: 57517880
+[17/05/2023 13:13:08]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 36.5, ritmo    cardiaco: 82, presión arterial: 155, dispositivo: 57517880
+[17/05/2023 13:13:12]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 34.2, ritmo    cardiaco: 85, presión arterial: 157, dispositivo: 57517880
+[17/05/2023 13:13:17]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 34.6, ritmo    cardiaco: 118, presión arterial: 178, dispositivo: 57517880
+[17/05/2023 13:13:21]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 37.3, ritmo    cardiaco: 60, presión arterial: 185, dispositivo: 57517880
+[17/05/2023 13:13:26]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 38.2, ritmo    cardiaco: 89, presión arterial: 103, dispositivo: 57517880
+[17/05/2023 13:13:30]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 33.6, ritmo    cardiaco: 76, presión arterial: 190, dispositivo: 57517880
+[17/05/2023 13:13:34]: Teresa Gomez... ssn: 117-69-5260, edad: 102, temperatura: 35.7, ritmo    cardiaco: 134, presión arterial: 159, dispositivo: 57517880

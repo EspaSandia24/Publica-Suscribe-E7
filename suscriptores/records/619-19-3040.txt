@@ -1,0 +1,21 @@
+
+[14/05/2023 21:07:20]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 35.5, ritmo cardiaco: 128, presión arterial: 190, dispositivo: 73628408
+[14/05/2023 21:07:26]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 33.6, ritmo cardiaco: 63, presión arterial: 156, dispositivo: 73628408
+[14/05/2023 21:07:31]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 34.7, ritmo cardiaco: 105, presión arterial: 144, dispositivo: 73628408
+[14/05/2023 21:07:37]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 38.9, ritmo cardiaco: 149, presión arterial: 156, dispositivo: 73628408
+[14/05/2023 21:07:42]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 33.1, ritmo cardiaco: 111, presión arterial: 166, dispositivo: 73628408
+[14/05/2023 21:07:48]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 38.5, ritmo cardiaco: 115, presión arterial: 107, dispositivo: 73628408
+[14/05/2023 21:07:53]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 36.9, ritmo cardiaco: 81, presión arterial: 176, dispositivo: 73628408
+[14/05/2023 21:07:59]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 37.2, ritmo cardiaco: 149, presión arterial: 169, dispositivo: 73628408
+[14/05/2023 21:08:04]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 38.5, ritmo cardiaco: 100, presión arterial: 141, dispositivo: 73628408
+[14/05/2023 21:08:10]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 38.4, ritmo cardiaco: 97, presión arterial: 173, dispositivo: 73628408
+[14/05/2023 21:08:15]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 38.2, ritmo cardiaco: 110, presión arterial: 185, dispositivo: 73628408
+[14/05/2023 21:08:21]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 38.8, ritmo cardiaco: 113, presión arterial: 158, dispositivo: 73628408
+[14/05/2023 21:08:26]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 36.2, ritmo cardiaco: 131, presión arterial: 129, dispositivo: 73628408
+[14/05/2023 21:08:32]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 36.7, ritmo cardiaco: 91, presión arterial: 161, dispositivo: 73628408
+[14/05/2023 21:08:37]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 36.6, ritmo cardiaco: 81, presión arterial: 193, dispositivo: 73628408
+[14/05/2023 21:08:43]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 34.3, ritmo cardiaco: 67, presión arterial: 113, dispositivo: 73628408
+[14/05/2023 21:08:48]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 35.2, ritmo cardiaco: 106, presión arterial: 136, dispositivo: 73628408
+[14/05/2023 21:08:54]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 37.7, ritmo cardiaco: 67, presión arterial: 142, dispositivo: 73628408
+[14/05/2023 21:08:59]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 34.8, ritmo cardiaco: 118, presión arterial: 184, dispositivo: 73628408
+[14/05/2023 21:09:05]: Pamela Bell... ssn: 619-19-3040, edad: 117, temperatura: 33.8, ritmo cardiaco: 119, presión arterial: 185, dispositivo: 73628408

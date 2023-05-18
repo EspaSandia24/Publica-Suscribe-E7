@@ -1,0 +1,21 @@
+
+[17/05/2023 13:09:47]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 37.2, ritmo    cardiaco: 136, presión arterial: 161, dispositivo: 95390066
+[17/05/2023 13:09:50]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 36.6, ritmo    cardiaco: 86, presión arterial: 174, dispositivo: 95390066
+[17/05/2023 13:09:53]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 37.5, ritmo    cardiaco: 120, presión arterial: 122, dispositivo: 95390066
+[17/05/2023 13:09:56]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 37.4, ritmo    cardiaco: 115, presión arterial: 105, dispositivo: 95390066
+[17/05/2023 13:10:00]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 35.1, ritmo    cardiaco: 84, presión arterial: 177, dispositivo: 95390066
+[17/05/2023 13:10:03]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 38.2, ritmo    cardiaco: 120, presión arterial: 125, dispositivo: 95390066
+[17/05/2023 13:10:06]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 36.2, ritmo    cardiaco: 120, presión arterial: 200, dispositivo: 95390066
+[17/05/2023 13:10:09]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 35.7, ritmo    cardiaco: 140, presión arterial: 103, dispositivo: 95390066
+[17/05/2023 13:10:12]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 36.1, ritmo    cardiaco: 125, presión arterial: 132, dispositivo: 95390066
+[17/05/2023 13:10:15]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 33.6, ritmo    cardiaco: 105, presión arterial: 147, dispositivo: 95390066
+[17/05/2023 13:10:18]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 35.6, ritmo    cardiaco: 110, presión arterial: 183, dispositivo: 95390066
+[17/05/2023 13:10:21]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 37.4, ritmo    cardiaco: 94, presión arterial: 193, dispositivo: 95390066
+[17/05/2023 13:10:24]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 37.9, ritmo    cardiaco: 112, presión arterial: 118, dispositivo: 95390066
+[17/05/2023 13:10:27]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 38.7, ritmo    cardiaco: 116, presión arterial: 104, dispositivo: 95390066
+[17/05/2023 13:10:30]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 33.1, ritmo    cardiaco: 118, presión arterial: 168, dispositivo: 95390066
+[17/05/2023 13:10:33]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 37.3, ritmo    cardiaco: 70, presión arterial: 125, dispositivo: 95390066
+[17/05/2023 13:10:36]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 37.6, ritmo    cardiaco: 74, presión arterial: 154, dispositivo: 95390066
+[17/05/2023 13:10:40]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 36.4, ritmo    cardiaco: 60, presión arterial: 116, dispositivo: 95390066
+[17/05/2023 13:10:43]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 33.6, ritmo    cardiaco: 91, presión arterial: 153, dispositivo: 95390066
+[17/05/2023 13:10:46]: Helen Castro... ssn: 886-22-5456, edad: 118, temperatura: 38.2, ritmo    cardiaco: 142, presión arterial: 134, dispositivo: 95390066

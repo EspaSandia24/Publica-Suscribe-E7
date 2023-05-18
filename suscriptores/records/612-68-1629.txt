@@ -1,0 +1,21 @@
+
+[17/05/2023 12:42:22]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 35.3, ritmo    cardiaco: 109, presión arterial: 156, dispositivo: 56055850
+[17/05/2023 12:42:24]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 36.0, ritmo    cardiaco: 82, presión arterial: 140, dispositivo: 56055850
+[17/05/2023 12:42:26]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 37.6, ritmo    cardiaco: 95, presión arterial: 156, dispositivo: 56055850
+[17/05/2023 12:42:28]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 35.1, ritmo    cardiaco: 74, presión arterial: 175, dispositivo: 56055850
+[17/05/2023 12:42:30]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 36.6, ritmo    cardiaco: 60, presión arterial: 103, dispositivo: 56055850
+[17/05/2023 12:42:33]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 37.2, ritmo    cardiaco: 99, presión arterial: 172, dispositivo: 56055850
+[17/05/2023 12:42:35]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 35.5, ritmo    cardiaco: 109, presión arterial: 181, dispositivo: 56055850
+[17/05/2023 12:42:37]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 35.7, ritmo    cardiaco: 64, presión arterial: 140, dispositivo: 56055850
+[17/05/2023 12:42:39]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 37.4, ritmo    cardiaco: 127, presión arterial: 184, dispositivo: 56055850
+[17/05/2023 12:42:41]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 33.8, ritmo    cardiaco: 119, presión arterial: 105, dispositivo: 56055850
+[17/05/2023 12:42:44]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 33.1, ritmo    cardiaco: 104, presión arterial: 109, dispositivo: 56055850
+[17/05/2023 12:42:46]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 37.4, ritmo    cardiaco: 109, presión arterial: 199, dispositivo: 56055850
+[17/05/2023 12:42:48]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 35.9, ritmo    cardiaco: 143, presión arterial: 137, dispositivo: 56055850
+[17/05/2023 12:42:50]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 38.7, ritmo    cardiaco: 122, presión arterial: 115, dispositivo: 56055850
+[17/05/2023 12:42:52]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 36.5, ritmo    cardiaco: 111, presión arterial: 177, dispositivo: 56055850
+[17/05/2023 12:42:55]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 34.5, ritmo    cardiaco: 119, presión arterial: 164, dispositivo: 56055850
+[17/05/2023 12:42:57]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 34.4, ritmo    cardiaco: 122, presión arterial: 178, dispositivo: 56055850
+[17/05/2023 12:42:59]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 37.1, ritmo    cardiaco: 94, presión arterial: 175, dispositivo: 56055850
+[17/05/2023 12:43:01]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 33.5, ritmo    cardiaco: 78, presión arterial: 178, dispositivo: 56055850
+[17/05/2023 12:43:03]: Gilbert Church... ssn: 612-68-1629, edad: 109, temperatura: 37.9, ritmo    cardiaco: 129, presión arterial: 200, dispositivo: 56055850

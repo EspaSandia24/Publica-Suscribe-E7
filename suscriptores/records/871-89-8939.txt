@@ -1,0 +1,15 @@
+
+[17/05/2023 12:12:47]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 33.2, ritmo    cardiaco: 129, presión arterial: 161, dispositivo: 11950287
+[17/05/2023 12:12:48]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 34.9, ritmo    cardiaco: 82, presión arterial: 182, dispositivo: 11950287
+[17/05/2023 12:12:49]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 36.0, ritmo    cardiaco: 136, presión arterial: 179, dispositivo: 11950287
+[17/05/2023 12:12:50]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 37.5, ritmo    cardiaco: 139, presión arterial: 187, dispositivo: 11950287
+[17/05/2023 12:12:51]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 35.9, ritmo    cardiaco: 139, presión arterial: 148, dispositivo: 11950287
+[17/05/2023 12:12:52]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 34.0, ritmo    cardiaco: 64, presión arterial: 117, dispositivo: 11950287
+[17/05/2023 12:12:53]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 35.9, ritmo    cardiaco: 145, presión arterial: 199, dispositivo: 11950287
+[17/05/2023 12:12:54]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 36.3, ritmo    cardiaco: 102, presión arterial: 122, dispositivo: 11950287
+[17/05/2023 12:12:55]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 36.6, ritmo    cardiaco: 118, presión arterial: 167, dispositivo: 11950287
+[17/05/2023 12:12:56]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 37.0, ritmo    cardiaco: 131, presión arterial: 102, dispositivo: 11950287
+[17/05/2023 12:12:57]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 38.2, ritmo    cardiaco: 68, presión arterial: 189, dispositivo: 11950287
+[17/05/2023 12:12:58]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 37.8, ritmo    cardiaco: 145, presión arterial: 191, dispositivo: 11950287
+[17/05/2023 12:12:59]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 33.7, ritmo    cardiaco: 75, presión arterial: 103, dispositivo: 11950287
+[17/05/2023 12:13:00]: Claire Hickman... ssn: 871-89-8939, edad: 83, temperatura: 38.1, ritmo    cardiaco: 76, presión arterial: 162, dispositivo: 11950287

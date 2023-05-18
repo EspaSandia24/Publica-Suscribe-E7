@@ -1,0 +1,21 @@
+
+[14/05/2023 14:50:07]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 35.7, ritmo cardiaco: 122, presión arterial: 162, dispositivo: 51568963
+[14/05/2023 14:50:08]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 35.7, ritmo cardiaco: 135, presión arterial: 146, dispositivo: 51568963
+[14/05/2023 14:50:09]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 33.7, ritmo cardiaco: 80, presión arterial: 195, dispositivo: 51568963
+[14/05/2023 14:50:10]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 34.7, ritmo cardiaco: 132, presión arterial: 148, dispositivo: 51568963
+[14/05/2023 14:50:11]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 38.3, ritmo cardiaco: 131, presión arterial: 194, dispositivo: 51568963
+[14/05/2023 14:50:12]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 34.3, ritmo cardiaco: 87, presión arterial: 149, dispositivo: 51568963
+[14/05/2023 14:50:13]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 37.0, ritmo cardiaco: 117, presión arterial: 131, dispositivo: 51568963
+[14/05/2023 14:50:15]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 38.0, ritmo cardiaco: 147, presión arterial: 173, dispositivo: 51568963
+[14/05/2023 14:50:16]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 34.2, ritmo cardiaco: 99, presión arterial: 130, dispositivo: 51568963
+[14/05/2023 14:50:17]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 34.7, ritmo cardiaco: 147, presión arterial: 116, dispositivo: 51568963
+[14/05/2023 14:50:18]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 35.3, ritmo cardiaco: 82, presión arterial: 177, dispositivo: 51568963
+[14/05/2023 14:50:19]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 35.1, ritmo cardiaco: 115, presión arterial: 117, dispositivo: 51568963
+[14/05/2023 14:50:20]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 35.6, ritmo cardiaco: 107, presión arterial: 142, dispositivo: 51568963
+[14/05/2023 14:50:21]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 33.4, ritmo cardiaco: 121, presión arterial: 141, dispositivo: 51568963
+[14/05/2023 14:50:22]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 34.1, ritmo cardiaco: 108, presión arterial: 195, dispositivo: 51568963
+[14/05/2023 14:50:23]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 33.6, ritmo cardiaco: 108, presión arterial: 165, dispositivo: 51568963
+[14/05/2023 14:50:24]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 34.2, ritmo cardiaco: 128, presión arterial: 129, dispositivo: 51568963
+[14/05/2023 14:50:25]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 36.2, ritmo cardiaco: 83, presión arterial: 168, dispositivo: 51568963
+[14/05/2023 14:50:27]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 38.6, ritmo cardiaco: 81, presión arterial: 107, dispositivo: 51568963
+[14/05/2023 14:50:28]: Jessica Sutton... ssn: 015-23-4765, edad: 98, temperatura: 34.9, ritmo cardiaco: 84, presión arterial: 188, dispositivo: 51568963

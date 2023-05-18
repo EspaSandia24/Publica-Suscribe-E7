@@ -1,0 +1,21 @@
+
+[14/05/2023 20:50:53]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 35.5, ritmo cardiaco: 144, presión arterial: 152, dispositivo: 37066233
+[14/05/2023 20:50:57]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 34.2, ritmo cardiaco: 126, presión arterial: 139, dispositivo: 37066233
+[14/05/2023 20:51:00]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 38.8, ritmo cardiaco: 78, presión arterial: 198, dispositivo: 37066233
+[14/05/2023 20:51:03]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 37.2, ritmo cardiaco: 94, presión arterial: 173, dispositivo: 37066233
+[14/05/2023 20:51:08]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 36.4, ritmo cardiaco: 69, presión arterial: 137, dispositivo: 37066233
+[14/05/2023 20:51:11]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 33.2, ritmo cardiaco: 109, presión arterial: 147, dispositivo: 37066233
+[14/05/2023 20:51:15]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 37.3, ritmo cardiaco: 78, presión arterial: 131, dispositivo: 37066233
+[14/05/2023 20:51:18]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 35.6, ritmo cardiaco: 106, presión arterial: 117, dispositivo: 37066233
+[14/05/2023 20:51:21]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 36.9, ritmo cardiaco: 97, presión arterial: 187, dispositivo: 37066233
+[14/05/2023 20:51:24]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 35.5, ritmo cardiaco: 109, presión arterial: 187, dispositivo: 37066233
+[14/05/2023 20:51:28]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 35.3, ritmo cardiaco: 133, presión arterial: 113, dispositivo: 37066233
+[14/05/2023 20:51:31]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 36.8, ritmo cardiaco: 92, presión arterial: 111, dispositivo: 37066233
+[14/05/2023 20:51:34]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 34.6, ritmo cardiaco: 112, presión arterial: 129, dispositivo: 37066233
+[14/05/2023 20:51:38]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 33.0, ritmo cardiaco: 62, presión arterial: 143, dispositivo: 37066233
+[14/05/2023 20:51:41]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 33.4, ritmo cardiaco: 61, presión arterial: 163, dispositivo: 37066233
+[14/05/2023 20:51:45]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 37.4, ritmo cardiaco: 81, presión arterial: 154, dispositivo: 37066233
+[14/05/2023 20:51:48]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 36.9, ritmo cardiaco: 130, presión arterial: 194, dispositivo: 37066233
+[14/05/2023 20:51:51]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 34.8, ritmo cardiaco: 112, presión arterial: 149, dispositivo: 37066233
+[14/05/2023 20:51:54]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 33.4, ritmo cardiaco: 130, presión arterial: 144, dispositivo: 37066233
+[14/05/2023 20:51:58]: Tanya Hancock... ssn: 631-18-1744, edad: 81, temperatura: 35.4, ritmo cardiaco: 100, presión arterial: 151, dispositivo: 37066233

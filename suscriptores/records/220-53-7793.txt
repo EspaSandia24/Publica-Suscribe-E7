@@ -1,0 +1,21 @@
+
+[14/05/2023 21:07:22]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 38.0, ritmo cardiaco: 106, presión arterial: 118, dispositivo: 57172578
+[14/05/2023 21:07:27]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 33.3, ritmo cardiaco: 124, presión arterial: 111, dispositivo: 57172578
+[14/05/2023 21:07:33]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 37.3, ritmo cardiaco: 142, presión arterial: 191, dispositivo: 57172578
+[14/05/2023 21:07:38]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 35.0, ritmo cardiaco: 104, presión arterial: 146, dispositivo: 57172578
+[14/05/2023 21:07:43]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 36.5, ritmo cardiaco: 140, presión arterial: 117, dispositivo: 57172578
+[14/05/2023 21:07:49]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 36.7, ritmo cardiaco: 115, presión arterial: 187, dispositivo: 57172578
+[14/05/2023 21:07:54]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 37.3, ritmo cardiaco: 127, presión arterial: 146, dispositivo: 57172578
+[14/05/2023 21:08:00]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 35.3, ritmo cardiaco: 135, presión arterial: 194, dispositivo: 57172578
+[14/05/2023 21:08:05]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 33.1, ritmo cardiaco: 101, presión arterial: 200, dispositivo: 57172578
+[14/05/2023 21:08:11]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 38.4, ritmo cardiaco: 101, presión arterial: 184, dispositivo: 57172578
+[14/05/2023 21:08:16]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 38.8, ritmo cardiaco: 106, presión arterial: 159, dispositivo: 57172578
+[14/05/2023 21:08:22]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 38.2, ritmo cardiaco: 106, presión arterial: 181, dispositivo: 57172578
+[14/05/2023 21:08:27]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 33.7, ritmo cardiaco: 112, presión arterial: 152, dispositivo: 57172578
+[14/05/2023 21:08:33]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 38.0, ritmo cardiaco: 76, presión arterial: 192, dispositivo: 57172578
+[14/05/2023 21:08:38]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 33.7, ritmo cardiaco: 124, presión arterial: 136, dispositivo: 57172578
+[14/05/2023 21:08:44]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 36.0, ritmo cardiaco: 83, presión arterial: 115, dispositivo: 57172578
+[14/05/2023 21:08:50]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 35.5, ritmo cardiaco: 108, presión arterial: 156, dispositivo: 57172578
+[14/05/2023 21:08:55]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 37.4, ritmo cardiaco: 94, presión arterial: 178, dispositivo: 57172578
+[14/05/2023 21:09:00]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 33.3, ritmo cardiaco: 102, presión arterial: 149, dispositivo: 57172578
+[14/05/2023 21:09:06]: Joshua Wright... ssn: 220-53-7793, edad: 90, temperatura: 34.9, ritmo cardiaco: 98, presión arterial: 132, dispositivo: 57172578

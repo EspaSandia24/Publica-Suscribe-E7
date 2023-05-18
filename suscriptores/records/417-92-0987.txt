@@ -1,0 +1,21 @@
+
+[14/05/2023 20:48:26]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 33.3, ritmo cardiaco: 90, presión arterial: 180, dispositivo: 46720435
+[14/05/2023 20:48:30]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 37.0, ritmo cardiaco: 112, presión arterial: 163, dispositivo: 46720435
+[14/05/2023 20:48:35]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 36.1, ritmo cardiaco: 123, presión arterial: 131, dispositivo: 46720435
+[14/05/2023 20:48:39]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 34.0, ritmo cardiaco: 108, presión arterial: 164, dispositivo: 46720435
+[14/05/2023 20:48:43]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 35.3, ritmo cardiaco: 108, presión arterial: 184, dispositivo: 46720435
+[14/05/2023 20:48:48]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 38.3, ritmo cardiaco: 98, presión arterial: 128, dispositivo: 46720435
+[14/05/2023 20:48:53]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 36.0, ritmo cardiaco: 72, presión arterial: 191, dispositivo: 46720435
+[14/05/2023 20:48:58]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 35.1, ritmo cardiaco: 139, presión arterial: 144, dispositivo: 46720435
+[14/05/2023 20:49:03]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 35.2, ritmo cardiaco: 86, presión arterial: 186, dispositivo: 46720435
+[14/05/2023 20:49:08]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 35.8, ritmo cardiaco: 139, presión arterial: 196, dispositivo: 46720435
+[14/05/2023 20:49:13]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 37.3, ritmo cardiaco: 101, presión arterial: 123, dispositivo: 46720435
+[14/05/2023 20:49:17]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 39.0, ritmo cardiaco: 119, presión arterial: 133, dispositivo: 46720435
+[14/05/2023 20:49:23]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 37.3, ritmo cardiaco: 62, presión arterial: 174, dispositivo: 46720435
+[14/05/2023 20:49:28]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 37.2, ritmo cardiaco: 64, presión arterial: 161, dispositivo: 46720435
+[14/05/2023 20:49:34]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 36.8, ritmo cardiaco: 96, presión arterial: 105, dispositivo: 46720435
+[14/05/2023 20:49:38]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 39.0, ritmo cardiaco: 91, presión arterial: 161, dispositivo: 46720435
+[14/05/2023 20:49:43]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 38.6, ritmo cardiaco: 70, presión arterial: 107, dispositivo: 46720435
+[14/05/2023 20:49:47]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 36.6, ritmo cardiaco: 125, presión arterial: 103, dispositivo: 46720435
+[14/05/2023 20:49:52]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 36.0, ritmo cardiaco: 101, presión arterial: 102, dispositivo: 46720435
+[14/05/2023 20:49:58]: Charles Morgan... ssn: 417-92-0987, edad: 79, temperatura: 34.4, ritmo cardiaco: 113, presión arterial: 106, dispositivo: 46720435

@@ -1,0 +1,21 @@
+
+[14/05/2023 20:48:23]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 38.1, ritmo cardiaco: 92, presión arterial: 191, dispositivo: 86097783
+[14/05/2023 20:48:27]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 33.6, ritmo cardiaco: 92, presión arterial: 121, dispositivo: 86097783
+[14/05/2023 20:48:32]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 34.3, ritmo cardiaco: 116, presión arterial: 136, dispositivo: 86097783
+[14/05/2023 20:48:36]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 34.4, ritmo cardiaco: 133, presión arterial: 114, dispositivo: 86097783
+[14/05/2023 20:48:40]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 36.4, ritmo cardiaco: 132, presión arterial: 187, dispositivo: 86097783
+[14/05/2023 20:48:44]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 37.1, ritmo cardiaco: 132, presión arterial: 177, dispositivo: 86097783
+[14/05/2023 20:48:49]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 34.9, ritmo cardiaco: 105, presión arterial: 185, dispositivo: 86097783
+[14/05/2023 20:48:54]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 35.5, ritmo cardiaco: 121, presión arterial: 181, dispositivo: 86097783
+[14/05/2023 20:49:00]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 36.3, ritmo cardiaco: 77, presión arterial: 107, dispositivo: 86097783
+[14/05/2023 20:49:04]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 36.0, ritmo cardiaco: 79, presión arterial: 126, dispositivo: 86097783
+[14/05/2023 20:49:09]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 34.2, ritmo cardiaco: 74, presión arterial: 185, dispositivo: 86097783
+[14/05/2023 20:49:14]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 34.0, ritmo cardiaco: 109, presión arterial: 200, dispositivo: 86097783
+[14/05/2023 20:49:18]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 37.2, ritmo cardiaco: 132, presión arterial: 128, dispositivo: 86097783
+[14/05/2023 20:49:24]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 35.5, ritmo cardiaco: 83, presión arterial: 182, dispositivo: 86097783
+[14/05/2023 20:49:29]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 36.6, ritmo cardiaco: 146, presión arterial: 178, dispositivo: 86097783
+[14/05/2023 20:49:35]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 36.5, ritmo cardiaco: 143, presión arterial: 171, dispositivo: 86097783
+[14/05/2023 20:49:39]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 34.8, ritmo cardiaco: 113, presión arterial: 195, dispositivo: 86097783
+[14/05/2023 20:49:44]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 33.3, ritmo cardiaco: 96, presión arterial: 119, dispositivo: 86097783
+[14/05/2023 20:49:48]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 37.1, ritmo cardiaco: 111, presión arterial: 114, dispositivo: 86097783
+[14/05/2023 20:49:53]: Wyatt Bailey... ssn: 495-54-9424, edad: 110, temperatura: 37.0, ritmo cardiaco: 140, presión arterial: 123, dispositivo: 86097783

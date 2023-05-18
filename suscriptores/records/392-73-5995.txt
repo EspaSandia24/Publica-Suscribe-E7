@@ -1,0 +1,21 @@
+
+[17/05/2023 13:12:13]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 38.0, ritmo    cardiaco: 146, presión arterial: 141, dispositivo: 57115820
+[17/05/2023 13:12:17]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 36.3, ritmo    cardiaco: 121, presión arterial: 172, dispositivo: 57115820
+[17/05/2023 13:12:22]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 35.1, ritmo    cardiaco: 141, presión arterial: 194, dispositivo: 57115820
+[17/05/2023 13:12:26]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 34.1, ritmo    cardiaco: 66, presión arterial: 135, dispositivo: 57115820
+[17/05/2023 13:12:31]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 35.5, ritmo    cardiaco: 101, presión arterial: 100, dispositivo: 57115820
+[17/05/2023 13:12:35]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 37.5, ritmo    cardiaco: 88, presión arterial: 130, dispositivo: 57115820
+[17/05/2023 13:12:39]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 33.5, ritmo    cardiaco: 74, presión arterial: 144, dispositivo: 57115820
+[17/05/2023 13:12:44]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 35.2, ritmo    cardiaco: 133, presión arterial: 131, dispositivo: 57115820
+[17/05/2023 13:12:48]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 33.4, ritmo    cardiaco: 86, presión arterial: 184, dispositivo: 57115820
+[17/05/2023 13:12:52]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 36.2, ritmo    cardiaco: 126, presión arterial: 157, dispositivo: 57115820
+[17/05/2023 13:12:57]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 37.4, ritmo    cardiaco: 81, presión arterial: 194, dispositivo: 57115820
+[17/05/2023 13:13:01]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 37.2, ritmo    cardiaco: 144, presión arterial: 154, dispositivo: 57115820
+[17/05/2023 13:13:06]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 36.5, ritmo    cardiaco: 134, presión arterial: 181, dispositivo: 57115820
+[17/05/2023 13:13:10]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 38.2, ritmo    cardiaco: 114, presión arterial: 138, dispositivo: 57115820
+[17/05/2023 13:13:15]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 35.1, ritmo    cardiaco: 124, presión arterial: 137, dispositivo: 57115820
+[17/05/2023 13:13:19]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 33.6, ritmo    cardiaco: 96, presión arterial: 123, dispositivo: 57115820
+[17/05/2023 13:13:23]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 38.5, ritmo    cardiaco: 126, presión arterial: 162, dispositivo: 57115820
+[17/05/2023 13:13:28]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 38.7, ritmo    cardiaco: 146, presión arterial: 170, dispositivo: 57115820
+[17/05/2023 13:13:32]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 34.5, ritmo    cardiaco: 79, presión arterial: 150, dispositivo: 57115820
+[17/05/2023 13:13:36]: Jonathan Davidson... ssn: 392-73-5995, edad: 91, temperatura: 33.8, ritmo    cardiaco: 92, presión arterial: 173, dispositivo: 57115820

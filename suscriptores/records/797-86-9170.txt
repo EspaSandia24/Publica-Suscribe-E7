@@ -1,0 +1,21 @@
+
+[14/05/2023 21:07:23]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 35.6, ritmo cardiaco: 75, presión arterial: 186, dispositivo: 81183525
+[14/05/2023 21:07:28]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 36.1, ritmo cardiaco: 136, presión arterial: 165, dispositivo: 81183525
+[14/05/2023 21:07:34]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 36.7, ritmo cardiaco: 121, presión arterial: 197, dispositivo: 81183525
+[14/05/2023 21:07:39]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 36.3, ritmo cardiaco: 126, presión arterial: 115, dispositivo: 81183525
+[14/05/2023 21:07:44]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 37.5, ritmo cardiaco: 127, presión arterial: 148, dispositivo: 81183525
+[14/05/2023 21:07:50]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 33.4, ritmo cardiaco: 92, presión arterial: 131, dispositivo: 81183525
+[14/05/2023 21:07:55]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 38.6, ritmo cardiaco: 112, presión arterial: 120, dispositivo: 81183525
+[14/05/2023 21:08:01]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 36.9, ritmo cardiaco: 81, presión arterial: 128, dispositivo: 81183525
+[14/05/2023 21:08:06]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 35.4, ritmo cardiaco: 111, presión arterial: 196, dispositivo: 81183525
+[14/05/2023 21:08:12]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 34.0, ritmo cardiaco: 127, presión arterial: 117, dispositivo: 81183525
+[14/05/2023 21:08:18]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 37.5, ritmo cardiaco: 146, presión arterial: 108, dispositivo: 81183525
+[14/05/2023 21:08:23]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 37.3, ritmo cardiaco: 134, presión arterial: 174, dispositivo: 81183525
+[14/05/2023 21:08:28]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 35.8, ritmo cardiaco: 63, presión arterial: 141, dispositivo: 81183525
+[14/05/2023 21:08:34]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 35.0, ritmo cardiaco: 116, presión arterial: 177, dispositivo: 81183525
+[14/05/2023 21:08:40]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 35.4, ritmo cardiaco: 92, presión arterial: 154, dispositivo: 81183525
+[14/05/2023 21:08:45]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 37.6, ritmo cardiaco: 128, presión arterial: 186, dispositivo: 81183525
+[14/05/2023 21:08:51]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 36.1, ritmo cardiaco: 93, presión arterial: 172, dispositivo: 81183525
+[14/05/2023 21:08:56]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 35.2, ritmo cardiaco: 138, presión arterial: 107, dispositivo: 81183525
+[14/05/2023 21:09:01]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 34.4, ritmo cardiaco: 82, presión arterial: 105, dispositivo: 81183525
+[14/05/2023 21:09:07]: Elizabeth Todd... ssn: 797-86-9170, edad: 72, temperatura: 34.1, ritmo cardiaco: 141, presión arterial: 153, dispositivo: 81183525

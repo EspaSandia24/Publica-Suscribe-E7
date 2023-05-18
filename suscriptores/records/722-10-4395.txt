@@ -1,0 +1,21 @@
+
+[14/05/2023 14:33:27]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 37.4, ritmo cardiaco: 104, presión arterial: 193, dispositivo: 72994168
+[14/05/2023 14:33:30]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 38.2, ritmo cardiaco: 110, presión arterial: 134, dispositivo: 72994168
+[14/05/2023 14:33:32]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 38.9, ritmo cardiaco: 115, presión arterial: 120, dispositivo: 72994168
+[14/05/2023 14:33:34]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 33.4, ritmo cardiaco: 87, presión arterial: 135, dispositivo: 72994168
+[14/05/2023 14:33:36]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 36.8, ritmo cardiaco: 68, presión arterial: 108, dispositivo: 72994168
+[14/05/2023 14:33:38]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 36.3, ritmo cardiaco: 112, presión arterial: 176, dispositivo: 72994168
+[14/05/2023 14:33:41]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 36.2, ritmo cardiaco: 76, presión arterial: 192, dispositivo: 72994168
+[14/05/2023 14:33:43]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 38.5, ritmo cardiaco: 115, presión arterial: 181, dispositivo: 72994168
+[14/05/2023 14:33:45]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 38.7, ritmo cardiaco: 80, presión arterial: 179, dispositivo: 72994168
+[14/05/2023 14:33:47]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 33.2, ritmo cardiaco: 94, presión arterial: 137, dispositivo: 72994168
+[14/05/2023 14:33:50]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 34.3, ritmo cardiaco: 71, presión arterial: 179, dispositivo: 72994168
+[14/05/2023 14:33:52]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 33.5, ritmo cardiaco: 92, presión arterial: 120, dispositivo: 72994168
+[14/05/2023 14:33:55]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 34.9, ritmo cardiaco: 130, presión arterial: 162, dispositivo: 72994168
+[14/05/2023 14:33:57]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 37.4, ritmo cardiaco: 143, presión arterial: 119, dispositivo: 72994168
+[14/05/2023 14:33:59]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 36.6, ritmo cardiaco: 84, presión arterial: 164, dispositivo: 72994168
+[14/05/2023 14:34:01]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 36.2, ritmo cardiaco: 75, presión arterial: 198, dispositivo: 72994168
+[14/05/2023 14:34:03]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 33.6, ritmo cardiaco: 80, presión arterial: 193, dispositivo: 72994168
+[14/05/2023 14:34:06]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 34.4, ritmo cardiaco: 150, presión arterial: 106, dispositivo: 72994168
+[14/05/2023 14:34:08]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 34.0, ritmo cardiaco: 118, presión arterial: 189, dispositivo: 72994168
+[14/05/2023 14:34:10]: Kim Moore... ssn: 722-10-4395, edad: 93, temperatura: 36.6, ritmo cardiaco: 67, presión arterial: 126, dispositivo: 72994168

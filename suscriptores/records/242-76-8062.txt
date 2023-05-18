@@ -1,0 +1,21 @@
+
+[14/05/2023 20:50:52]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 36.6, ritmo cardiaco: 75, presión arterial: 187, dispositivo: 33103318
+[14/05/2023 20:50:56]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 38.3, ritmo cardiaco: 69, presión arterial: 106, dispositivo: 33103318
+[14/05/2023 20:50:59]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 36.9, ritmo cardiaco: 69, presión arterial: 130, dispositivo: 33103318
+[14/05/2023 20:51:02]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 38.6, ritmo cardiaco: 66, presión arterial: 131, dispositivo: 33103318
+[14/05/2023 20:51:07]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 39.0, ritmo cardiaco: 130, presión arterial: 185, dispositivo: 33103318
+[14/05/2023 20:51:10]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 38.4, ritmo cardiaco: 101, presión arterial: 170, dispositivo: 33103318
+[14/05/2023 20:51:13]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 37.0, ritmo cardiaco: 143, presión arterial: 174, dispositivo: 33103318
+[14/05/2023 20:51:17]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 33.6, ritmo cardiaco: 104, presión arterial: 172, dispositivo: 33103318
+[14/05/2023 20:51:20]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 34.9, ritmo cardiaco: 110, presión arterial: 104, dispositivo: 33103318
+[14/05/2023 20:51:23]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 36.9, ritmo cardiaco: 140, presión arterial: 120, dispositivo: 33103318
+[14/05/2023 20:51:26]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 33.8, ritmo cardiaco: 81, presión arterial: 195, dispositivo: 33103318
+[14/05/2023 20:51:30]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 33.8, ritmo cardiaco: 67, presión arterial: 192, dispositivo: 33103318
+[14/05/2023 20:51:33]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 37.3, ritmo cardiaco: 144, presión arterial: 130, dispositivo: 33103318
+[14/05/2023 20:51:37]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 34.4, ritmo cardiaco: 111, presión arterial: 108, dispositivo: 33103318
+[14/05/2023 20:51:40]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 35.5, ritmo cardiaco: 97, presión arterial: 163, dispositivo: 33103318
+[14/05/2023 20:51:43]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 37.0, ritmo cardiaco: 130, presión arterial: 152, dispositivo: 33103318
+[14/05/2023 20:51:47]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 39.0, ritmo cardiaco: 93, presión arterial: 111, dispositivo: 33103318
+[14/05/2023 20:51:50]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 36.3, ritmo cardiaco: 142, presión arterial: 174, dispositivo: 33103318
+[14/05/2023 20:51:53]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 33.3, ritmo cardiaco: 143, presión arterial: 140, dispositivo: 33103318
+[14/05/2023 20:51:57]: Daniel Hester... ssn: 242-76-8062, edad: 65, temperatura: 36.2, ritmo cardiaco: 126, presión arterial: 146, dispositivo: 33103318

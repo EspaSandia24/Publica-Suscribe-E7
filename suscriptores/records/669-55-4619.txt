@@ -1,0 +1,21 @@
+
+[14/05/2023 21:07:25]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 35.5, ritmo cardiaco: 129, presión arterial: 143, dispositivo: 31170851
+[14/05/2023 21:07:30]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 35.2, ritmo cardiaco: 92, presión arterial: 130, dispositivo: 31170851
+[14/05/2023 21:07:36]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 38.2, ritmo cardiaco: 120, presión arterial: 123, dispositivo: 31170851
+[14/05/2023 21:07:41]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 34.6, ritmo cardiaco: 121, presión arterial: 156, dispositivo: 31170851
+[14/05/2023 21:07:47]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 39.0, ritmo cardiaco: 117, presión arterial: 146, dispositivo: 31170851
+[14/05/2023 21:07:52]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 33.6, ritmo cardiaco: 122, presión arterial: 112, dispositivo: 31170851
+[14/05/2023 21:07:57]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 38.1, ritmo cardiaco: 129, presión arterial: 182, dispositivo: 31170851
+[14/05/2023 21:08:03]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 38.8, ritmo cardiaco: 82, presión arterial: 191, dispositivo: 31170851
+[14/05/2023 21:08:09]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 38.9, ritmo cardiaco: 119, presión arterial: 155, dispositivo: 31170851
+[14/05/2023 21:08:14]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 37.0, ritmo cardiaco: 68, presión arterial: 177, dispositivo: 31170851
+[14/05/2023 21:08:20]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 35.2, ritmo cardiaco: 68, presión arterial: 157, dispositivo: 31170851
+[14/05/2023 21:08:25]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 36.0, ritmo cardiaco: 63, presión arterial: 145, dispositivo: 31170851
+[14/05/2023 21:08:31]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 38.8, ritmo cardiaco: 101, presión arterial: 188, dispositivo: 31170851
+[14/05/2023 21:08:36]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 37.2, ritmo cardiaco: 103, presión arterial: 175, dispositivo: 31170851
+[14/05/2023 21:08:42]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 35.6, ritmo cardiaco: 95, presión arterial: 141, dispositivo: 31170851
+[14/05/2023 21:08:47]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 37.2, ritmo cardiaco: 79, presión arterial: 103, dispositivo: 31170851
+[14/05/2023 21:08:53]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 35.5, ritmo cardiaco: 131, presión arterial: 137, dispositivo: 31170851
+[14/05/2023 21:08:58]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 34.8, ritmo cardiaco: 85, presión arterial: 147, dispositivo: 31170851
+[14/05/2023 21:09:03]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 34.2, ritmo cardiaco: 77, presión arterial: 158, dispositivo: 31170851
+[14/05/2023 21:09:09]: Jamie Thompson... ssn: 669-55-4619, edad: 68, temperatura: 37.2, ritmo cardiaco: 71, presión arterial: 104, dispositivo: 31170851

@@ -1,0 +1,21 @@
+
+[17/05/2023 13:09:45]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 33.9, ritmo    cardiaco: 79, presión arterial: 175, dispositivo: 59461944
+[17/05/2023 13:09:48]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 34.0, ritmo    cardiaco: 137, presión arterial: 146, dispositivo: 59461944
+[17/05/2023 13:09:51]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 33.9, ritmo    cardiaco: 77, presión arterial: 153, dispositivo: 59461944
+[17/05/2023 13:09:54]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 36.5, ritmo    cardiaco: 75, presión arterial: 104, dispositivo: 59461944
+[17/05/2023 13:09:57]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 33.4, ritmo    cardiaco: 102, presión arterial: 154, dispositivo: 59461944
+[17/05/2023 13:10:01]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 33.9, ritmo    cardiaco: 110, presión arterial: 115, dispositivo: 59461944
+[17/05/2023 13:10:04]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 33.0, ritmo    cardiaco: 62, presión arterial: 119, dispositivo: 59461944
+[17/05/2023 13:10:07]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 36.2, ritmo    cardiaco: 140, presión arterial: 100, dispositivo: 59461944
+[17/05/2023 13:10:10]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 36.9, ritmo    cardiaco: 115, presión arterial: 195, dispositivo: 59461944
+[17/05/2023 13:10:13]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 36.1, ritmo    cardiaco: 102, presión arterial: 109, dispositivo: 59461944
+[17/05/2023 13:10:16]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 38.1, ritmo    cardiaco: 139, presión arterial: 136, dispositivo: 59461944
+[17/05/2023 13:10:19]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 36.2, ritmo    cardiaco: 129, presión arterial: 189, dispositivo: 59461944
+[17/05/2023 13:10:22]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 35.4, ritmo    cardiaco: 68, presión arterial: 104, dispositivo: 59461944
+[17/05/2023 13:10:25]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 36.9, ritmo    cardiaco: 65, presión arterial: 101, dispositivo: 59461944
+[17/05/2023 13:10:28]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 36.2, ritmo    cardiaco: 105, presión arterial: 150, dispositivo: 59461944
+[17/05/2023 13:10:31]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 33.6, ritmo    cardiaco: 144, presión arterial: 106, dispositivo: 59461944
+[17/05/2023 13:10:34]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 38.7, ritmo    cardiaco: 138, presión arterial: 160, dispositivo: 59461944
+[17/05/2023 13:10:37]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 33.2, ritmo    cardiaco: 100, presión arterial: 124, dispositivo: 59461944
+[17/05/2023 13:10:41]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 36.7, ritmo    cardiaco: 90, presión arterial: 125, dispositivo: 59461944
+[17/05/2023 13:10:44]: Amber Brown... ssn: 542-81-3776, edad: 105, temperatura: 38.4, ritmo    cardiaco: 114, presión arterial: 199, dispositivo: 59461944

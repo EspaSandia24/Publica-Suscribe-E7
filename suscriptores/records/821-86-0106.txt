@@ -1,0 +1,21 @@
+
+[17/05/2023 13:12:11]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 38.9, ritmo    cardiaco: 92, presión arterial: 132, dispositivo: 69236833
+[17/05/2023 13:12:16]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 38.7, ritmo    cardiaco: 87, presión arterial: 181, dispositivo: 69236833
+[17/05/2023 13:12:20]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 33.6, ritmo    cardiaco: 63, presión arterial: 199, dispositivo: 69236833
+[17/05/2023 13:12:25]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 35.2, ritmo    cardiaco: 102, presión arterial: 123, dispositivo: 69236833
+[17/05/2023 13:12:29]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 33.9, ritmo    cardiaco: 127, presión arterial: 123, dispositivo: 69236833
+[17/05/2023 13:12:34]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 35.8, ritmo    cardiaco: 137, presión arterial: 136, dispositivo: 69236833
+[17/05/2023 13:12:38]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 34.6, ritmo    cardiaco: 92, presión arterial: 192, dispositivo: 69236833
+[17/05/2023 13:12:43]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 37.1, ritmo    cardiaco: 111, presión arterial: 183, dispositivo: 69236833
+[17/05/2023 13:12:47]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 37.5, ritmo    cardiaco: 78, presión arterial: 193, dispositivo: 69236833
+[17/05/2023 13:12:51]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 33.2, ritmo    cardiaco: 138, presión arterial: 153, dispositivo: 69236833
+[17/05/2023 13:12:56]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 37.1, ritmo    cardiaco: 84, presión arterial: 156, dispositivo: 69236833
+[17/05/2023 13:13:00]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 35.8, ritmo    cardiaco: 62, presión arterial: 113, dispositivo: 69236833
+[17/05/2023 13:13:05]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 34.7, ritmo    cardiaco: 139, presión arterial: 114, dispositivo: 69236833
+[17/05/2023 13:13:09]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 36.7, ritmo    cardiaco: 101, presión arterial: 161, dispositivo: 69236833
+[17/05/2023 13:13:13]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 38.2, ritmo    cardiaco: 96, presión arterial: 123, dispositivo: 69236833
+[17/05/2023 13:13:18]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 34.6, ritmo    cardiaco: 121, presión arterial: 193, dispositivo: 69236833
+[17/05/2023 13:13:22]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 33.1, ritmo    cardiaco: 134, presión arterial: 181, dispositivo: 69236833
+[17/05/2023 13:13:27]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 37.4, ritmo    cardiaco: 101, presión arterial: 115, dispositivo: 69236833
+[17/05/2023 13:13:31]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 35.8, ritmo    cardiaco: 78, presión arterial: 134, dispositivo: 69236833
+[17/05/2023 13:13:35]: Ashley Singleton... ssn: 821-86-0106, edad: 92, temperatura: 36.5, ritmo    cardiaco: 142, presión arterial: 190, dispositivo: 69236833
